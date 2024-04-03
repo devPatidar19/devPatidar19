@@ -1,4 +1,5 @@
 
+
 <h1 align="center">Hi 👋, I'm Dev Patidar</h1>
 <h3 align="center">Hi, I'm Dev , My expertise in both front-end and back-end development, showcasing my ability to work with a variety of technologies .</h3>
 <img  align ="right" alt="coding" width="300" src="https://raj-rathod.github.io/rajesh-rathore/assets/images/developer.gif"/>
