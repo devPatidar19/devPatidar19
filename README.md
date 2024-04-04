@@ -1,4 +1,4 @@
-
+![logo](https://github.com/devPatidar19/devPatidar19/blob/main/front.gif)
 
 <h1 align="center">Hi 👋, I'm Dev Patidar</h1>
 <h3 align="center">Hi, I'm Dev , My expertise in both front-end and back-end development, showcasing my ability to work with a variety of technologies .</h3>
