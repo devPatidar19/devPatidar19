@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **pdev24880@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-H6m_4PzozDAj-dvb2JZroZqv2Ao-IjF/view?usp=drivesdk](https://drive.google.com/file/d/1-H6m_4PzozDAj-dvb2JZroZqv2Ao-IjF/view?usp=drivesdk)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1-H6m_4PzozDAj-dvb2JZroZqv2Ao-IjF/view?usp=drivesdk](https://drive.google.com/file/d/1VbxbQ_yh3X_CQDEkoZ3UA29B_Zbjz14o/view?usp=drivesdk)
 
 - ⚡ Fun fact **I am funny**
 
