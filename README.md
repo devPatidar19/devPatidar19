@@ -1,8 +1,18 @@
 ![logo](https://github.com/devPatidar19/devPatidar19/blob/main/front.gif)
 
 <h1 align="center">Hi 👋, I'm Dev Patidar</h1>
-<h3 align="center">Hi, I'm Dev , My expertise in both front-end and back-end development, showcasing my ability to work with a variety of technologies .</h3>
+<h3 align="center">Hi, I'm Dev , My expertise in both front-end and back-end development, showcasing my ability to work with a variety of technologies .A developer with a strong passion for creating robust and scalable web applications.</h3>
 <img  align ="right" alt="coding" width="300" src="https://raj-rathod.github.io/rajesh-rathore/assets/images/developer.gif"/>
+
+⚙️ What I Do:
+🧩 Frontend: I work with HTML, CSS, SCSS, Tailwind CSS, JavaScript, and Typescript. I use frameworks and libraries like React.js, Redux Toolkit, and React Router DOM to build dynamic and responsive user interfaces.
+
+🧩 Backend: I specialize in Node.js and Express.js to create powerful APIs and backend services. I use tools like Multer, Mailgen, Nodemailer and Express Validator to handle various backend tasks efficiently.
+
+🧩 Database: I am proficient with MongoDB for managing and scaling data effectively.
+
+⚙️ Deployment:
+I have experience with deployment tools and practices such as Git & GitHub for version control, Docker for containerization and NGINX for web servers and reverse proxy. I also use Vercel and other cloud services like  Google Cloud for deploying applications.
 
 - 🌱 I’m currently learning **Data Structures and Algorithms and Web Technologies**
 
@@ -10,9 +20,9 @@
 
 - 📫 How to reach me **pdev24880@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-H6m_4PzozDAj-dvb2JZroZqv2Ao-IjF/view?usp=drivesdk](https://drive.google.com/file/d/1VbxbQ_yh3X_CQDEkoZ3UA29B_Zbjz14o/view?usp=drivesdk)
+- 📄 Know about my experiences ([https://drive.google.com/file/d/1VbxbQ_yh3X_CQDEkoZ3UA29B_Zbjz14o/view?usp=drivesdk](https://drive.google.com/file/d/1Ver5ylJ_giwAdylbH6ylLoIIbfvBv5vo/view?usp=drivesdk))
 
-- ⚡ Fun fact **I am funny**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
